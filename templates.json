@@ -8,5 +8,10 @@
     "name": "מוטיבציה",
     "color": "#3f51b5",
     "html": "<h3>💪 שיחת מוטיבציה</h3><p><strong>מה עלה בשיחה:</strong> ...</p><p><strong>צעדים להמשך:</strong> ...</p>"
+  },
+  {
+    "name": "הערת סיכום PADENS",
+    "color": "#e91e63",
+    "html": "<h3>סיכום PADENS</h3><p><strong>איך היה בכללי:</strong> ...</p><p><strong>נקודות לשיפור:</strong> ...</p><p><strong>נקודות לשימור:</strong> ...</p>"
   }
 ]
